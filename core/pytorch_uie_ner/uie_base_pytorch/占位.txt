@@ -1,0 +1,1 @@
+#后续会把uie-base-pytorch模型参数地址提供出来
